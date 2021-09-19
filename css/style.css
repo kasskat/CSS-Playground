@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Comfortaa&display=swap');
+
+
+body {
+    background-color: rgb(189, 238, 245);
+}
+
+.heading {
+    text-align: center;
+}
+
+.Playground-heading {
+    color: mediumblue;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 5rem;
+}
+
+.main {
+border: 3px solid grey;
+width: 55%;
+margin: 1rem auto;
+}
+
+.main div{
+    height: 200px;
+    width: 200px;
+    border: 1px solid black;
+    border-radius: 50%;
+    margin: 2rem auto;
+}
+
+#red {
+    border-color: red;
+}
+
+#green {
+    border-color: green;
+}
+
+#blue {
+    border-color: blue;
+}
+
+.Footer {
+    color: crimson;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    font-size: 2rem;  
+}
